@@ -204,7 +204,7 @@ namespace IndidntUI
         {
             linkLabel1.LinkVisited = true;
 
-            System.Diagnostics.Process.Start("https://github.com/kevinbbrothers");
+            System.Diagnostics.Process.Start("https://github.com/kevinbbrothers/Indidnt");
         }
     }
 }
